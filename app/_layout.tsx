@@ -16,6 +16,7 @@ import 'react-native-reanimated';
 import { VitalisColors } from '@/constants/vitalis-theme';
 import { AuthProvider } from '@/contexts/auth-context';
 
+// Keep the splash visible until fonts load; a font error also releases it to avoid blocking navigation.
 void SplashScreen.preventAutoHideAsync();
 
 const navigationTheme = {
