@@ -19,6 +19,10 @@ Aplicativo de organização e acompanhamento de medicamentos para pacientes, pes
 - Cadastro guiado de medicamentos pelo IA HUB, com confirmação antes de persistir.
 - Design system próprio alinhado à landing page Vitalis.
 
+## Repositório relacionado
+
+A landing page e o Dashboard web da Vitalis estão em [vitalis-website](https://github.com/EspanholHS/vitalis-website).
+
 ## Stack
 
 - Expo 54, React Native 0.81 e React 19.
